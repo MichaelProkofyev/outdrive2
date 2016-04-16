@@ -16,5 +16,11 @@ public class Credits : MonoBehaviour {
     {
          Application.LoadLevel(8);
     }
+
+	void Update () {
+		if (Input.GetButtonDown ("Cancel")) {
+			MainMemu();
+		}
+	}
 }
 	
