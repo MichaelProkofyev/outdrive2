@@ -51,7 +51,7 @@ public class PauseMenu : MonoBehaviour
 
 #if !MOBILE_INPUT
 	void Update()
-	{
+	{//NOT USED IN GAME
 		if(Input.GetKeyUp(KeyCode.Escape))
 		{
 		    m_MenuToggle.isOn = !m_MenuToggle.isOn;

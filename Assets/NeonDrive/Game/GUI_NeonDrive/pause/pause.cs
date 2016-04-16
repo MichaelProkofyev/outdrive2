@@ -54,7 +54,7 @@ public class pause : MonoBehaviour {
 	void Update()
 	       {
 
-		if (Input.GetKeyDown (KeyCode.Escape)) {
+		if (Input.GetButtonDown ("Cancel")) {
 			if(yesPause == true){
 				yesPause = false;
 
@@ -94,8 +94,8 @@ void OnApplicationPause()
 {
 	
 	
-	if (Input.GetKeyDown (KeyCode.Escape)) {
-		if(yesPause == true){
+		if (Input.GetButtonDown ("Cancel")) {
+			if(yesPause == true){
 			yesPause = false;
 			
 		}
