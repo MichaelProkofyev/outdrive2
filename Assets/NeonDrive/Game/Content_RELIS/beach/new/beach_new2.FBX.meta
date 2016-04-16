@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: fc6fde6d49f55fa4a9718bf60f2df672
+timeCreated: 1439726492
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera001.Target
+    100004: Camera002.Target
+    100006: concr
+    100008: End
+    100010: Line024
+    100012: Loft001
+    100014: Object004
+    100016: Object004_MeshPart0
+    100018: Object004_MeshPart1
+    100020: Object007
+    100022: Palm cocos011
+    100024: Palm cocos012
+    100026: Palm cocos013
+    100028: Palm cocos014
+    100030: Palm cocos015
+    100032: Palm cocos016
+    100034: Palm cocos017
+    100036: Palm cocos018
+    100038: Palm cocos019
+    100040: Palm cocos020
+    100042: Palm cocos021
+    100044: Palm cocos022
+    100046: Palm cocos023
+    100048: Palm cocos024
+    100050: Palm cocos025
+    100052: Palm cocos026
+    100054: Palm cocos027
+    100056: Palm cocos028
+    100058: Palm cocos029
+    100060: Palm cocos030
+    100062: Palm cocos031
+    100064: Palm cocos032
+    100066: Palm cocos033
+    100068: Palm cocos034
+    100070: Palm cocos035
+    100072: Palm cocos036
+    100074: Palm cocos037
+    100076: Palm cocos038
+    100078: Palm cocos039
+    100080: Palm cocos040
+    100082: Palm cocos041
+    100084: Palm cocos042
+    100086: Palm cocos043
+    100088: Palm cocos044
+    100090: Palm cocos045
+    100092: Palm cocos046
+    100094: Palm cocos047
+    100096: Palm cocos048
+    100098: Palm cocos049
+    100100: Palm cocos050
+    100102: Palm cocos051
+    100104: Palm cocos052
+    100106: Palm cocos053
+    100108: Palm cocos054
+    100110: Palm cocos055
+    100112: Palm cocos056
+    100114: Palm cocos057
+    100116: Palm cocos058
+    100118: Palm cocos059
+    100120: Palm cocos060
+    100122: Palm cocos061
+    100124: Palm cocos062
+    100126: Palm cocos063
+    100128: Plane029
+    100130: Plane030
+    100132: sign
+    100134: Start
+    100136: wall_coll
+    400000: //RootNode
+    400002: Camera001.Target
+    400004: Camera002.Target
+    400006: concr
+    400008: End
+    400010: Line024
+    400012: Loft001
+    400014: Object004
+    400016: Object004_MeshPart0
+    400018: Object004_MeshPart1
+    400020: Object007
+    400022: Palm cocos011
+    400024: Palm cocos012
+    400026: Palm cocos013
+    400028: Palm cocos014
+    400030: Palm cocos015
+    400032: Palm cocos016
+    400034: Palm cocos017
+    400036: Palm cocos018
+    400038: Palm cocos019
+    400040: Palm cocos020
+    400042: Palm cocos021
+    400044: Palm cocos022
+    400046: Palm cocos023
+    400048: Palm cocos024
+    400050: Palm cocos025
+    400052: Palm cocos026
+    400054: Palm cocos027
+    400056: Palm cocos028
+    400058: Palm cocos029
+    400060: Palm cocos030
+    400062: Palm cocos031
+    400064: Palm cocos032
+    400066: Palm cocos033
+    400068: Palm cocos034
+    400070: Palm cocos035
+    400072: Palm cocos036
+    400074: Palm cocos037
+    400076: Palm cocos038
+    400078: Palm cocos039
+    400080: Palm cocos040
+    400082: Palm cocos041
+    400084: Palm cocos042
+    400086: Palm cocos043
+    400088: Palm cocos044
+    400090: Palm cocos045
+    400092: Palm cocos046
+    400094: Palm cocos047
+    400096: Palm cocos048
+    400098: Palm cocos049
+    400100: Palm cocos050
+    400102: Palm cocos051
+    400104: Palm cocos052
+    400106: Palm cocos053
+    400108: Palm cocos054
+    400110: Palm cocos055
+    400112: Palm cocos056
+    400114: Palm cocos057
+    400116: Palm cocos058
+    400118: Palm cocos059
+    400120: Palm cocos060
+    400122: Palm cocos061
+    400124: Palm cocos062
+    400126: Palm cocos063
+    400128: Plane029
+    400130: Plane030
+    400132: sign
+    400134: Start
+    400136: wall_coll
+    2300000: concr
+    2300002: Loft001
+    2300004: Object004_MeshPart0
+    2300006: Object004_MeshPart1
+    2300008: Object007
+    2300010: Palm cocos011
+    2300012: Palm cocos012
+    2300014: Palm cocos013
+    2300016: Palm cocos014
+    2300018: Palm cocos015
+    2300020: Palm cocos016
+    2300022: Palm cocos017
+    2300024: Palm cocos018
+    2300026: Palm cocos019
+    2300028: Palm cocos020
+    2300030: Palm cocos021
+    2300032: Palm cocos022
+    2300034: Palm cocos023
+    2300036: Palm cocos024
+    2300038: Palm cocos025
+    2300040: Palm cocos026
+    2300042: Palm cocos027
+    2300044: Palm cocos028
+    2300046: Palm cocos029
+    2300048: Palm cocos030
+    2300050: Palm cocos031
+    2300052: Palm cocos032
+    2300054: Palm cocos033
+    2300056: Palm cocos034
+    2300058: Palm cocos035
+    2300060: Palm cocos036
+    2300062: Palm cocos037
+    2300064: Palm cocos038
+    2300066: Palm cocos039
+    2300068: Palm cocos040
+    2300070: Palm cocos041
+    2300072: Palm cocos042
+    2300074: Palm cocos043
+    2300076: Palm cocos044
+    2300078: Palm cocos045
+    2300080: Palm cocos046
+    2300082: Palm cocos047
+    2300084: Palm cocos048
+    2300086: Palm cocos049
+    2300088: Palm cocos050
+    2300090: Palm cocos051
+    2300092: Palm cocos052
+    2300094: Palm cocos053
+    2300096: Palm cocos054
+    2300098: Palm cocos055
+    2300100: Palm cocos056
+    2300102: Palm cocos057
+    2300104: Palm cocos058
+    2300106: Palm cocos059
+    2300108: Palm cocos060
+    2300110: Palm cocos061
+    2300112: Palm cocos062
+    2300114: Palm cocos063
+    2300116: Plane029
+    2300118: Plane030
+    2300120: sign
+    2300122: wall_coll
+    3300000: concr
+    3300002: Loft001
+    3300004: Object004_MeshPart0
+    3300006: Object004_MeshPart1
+    3300008: Object007
+    3300010: Palm cocos011
+    3300012: Palm cocos012
+    3300014: Palm cocos013
+    3300016: Palm cocos014
+    3300018: Palm cocos015
+    3300020: Palm cocos016
+    3300022: Palm cocos017
+    3300024: Palm cocos018
+    3300026: Palm cocos019
+    3300028: Palm cocos020
+    3300030: Palm cocos021
+    3300032: Palm cocos022
+    3300034: Palm cocos023
+    3300036: Palm cocos024
+    3300038: Palm cocos025
+    3300040: Palm cocos026
+    3300042: Palm cocos027
+    3300044: Palm cocos028
+    3300046: Palm cocos029
+    3300048: Palm cocos030
+    3300050: Palm cocos031
+    3300052: Palm cocos032
+    3300054: Palm cocos033
+    3300056: Palm cocos034
+    3300058: Palm cocos035
+    3300060: Palm cocos036
+    3300062: Palm cocos037
+    3300064: Palm cocos038
+    3300066: Palm cocos039
+    3300068: Palm cocos040
+    3300070: Palm cocos041
+    3300072: Palm cocos042
+    3300074: Palm cocos043
+    3300076: Palm cocos044
+    3300078: Palm cocos045
+    3300080: Palm cocos046
+    3300082: Palm cocos047
+    3300084: Palm cocos048
+    3300086: Palm cocos049
+    3300088: Palm cocos050
+    3300090: Palm cocos051
+    3300092: Palm cocos052
+    3300094: Palm cocos053
+    3300096: Palm cocos054
+    3300098: Palm cocos055
+    3300100: Palm cocos056
+    3300102: Palm cocos057
+    3300104: Palm cocos058
+    3300106: Palm cocos059
+    3300108: Palm cocos060
+    3300110: Palm cocos061
+    3300112: Palm cocos062
+    3300114: Palm cocos063
+    3300116: Plane029
+    3300118: Plane030
+    3300120: sign
+    3300122: wall_coll
+    4300000: Plane029
+    4300002: Object004_MeshPart0
+    4300004: Object004_MeshPart1
+    4300006: Object007
+    4300008: Plane030
+    4300010: Loft001
+    4300012: wall_coll
+    4300014: concr
+    4300016: Palm cocos011
+    4300018: Palm cocos012
+    4300020: Palm cocos013
+    4300022: Palm cocos014
+    4300024: Palm cocos015
+    4300026: Palm cocos016
+    4300028: Palm cocos017
+    4300030: Palm cocos018
+    4300032: Palm cocos019
+    4300034: Palm cocos020
+    4300036: Palm cocos021
+    4300038: Palm cocos022
+    4300040: Palm cocos023
+    4300042: Palm cocos024
+    4300044: Palm cocos025
+    4300046: Palm cocos026
+    4300048: Palm cocos027
+    4300050: Palm cocos028
+    4300052: Palm cocos029
+    4300054: Palm cocos030
+    4300056: Palm cocos031
+    4300058: Palm cocos032
+    4300060: Palm cocos033
+    4300062: Palm cocos034
+    4300064: Palm cocos035
+    4300066: Palm cocos036
+    4300068: Palm cocos037
+    4300070: Palm cocos038
+    4300072: Palm cocos039
+    4300074: Palm cocos040
+    4300076: Palm cocos041
+    4300078: Palm cocos042
+    4300080: Palm cocos043
+    4300082: Palm cocos044
+    4300084: Palm cocos045
+    4300086: Palm cocos046
+    4300088: Palm cocos047
+    4300090: Palm cocos048
+    4300092: Palm cocos049
+    4300094: Palm cocos050
+    4300096: Palm cocos051
+    4300098: Palm cocos052
+    4300100: Palm cocos053
+    4300102: Palm cocos054
+    4300104: Palm cocos055
+    4300106: Palm cocos056
+    4300108: Palm cocos057
+    4300110: Palm cocos058
+    4300112: Palm cocos059
+    4300114: Palm cocos060
+    4300116: Palm cocos061
+    4300118: Palm cocos062
+    4300120: Palm cocos063
+    4300122: sign
+    6400000: concr
+    6400002: Loft001
+    6400004: Object004_MeshPart0
+    6400006: Object004_MeshPart1
+    6400008: Object007
+    6400010: Palm cocos011
+    6400012: Palm cocos012
+    6400014: Palm cocos013
+    6400016: Palm cocos014
+    6400018: Palm cocos015
+    6400020: Palm cocos016
+    6400022: Palm cocos017
+    6400024: Palm cocos018
+    6400026: Palm cocos019
+    6400028: Palm cocos020
+    6400030: Palm cocos021
+    6400032: Palm cocos022
+    6400034: Palm cocos023
+    6400036: Palm cocos024
+    6400038: Palm cocos025
+    6400040: Palm cocos026
+    6400042: Palm cocos027
+    6400044: Palm cocos028
+    6400046: Palm cocos029
+    6400048: Palm cocos030
+    6400050: Palm cocos031
+    6400052: Palm cocos032
+    6400054: Palm cocos033
+    6400056: Palm cocos034
+    6400058: Palm cocos035
+    6400060: Palm cocos036
+    6400062: Palm cocos037
+    6400064: Palm cocos038
+    6400066: Palm cocos039
+    6400068: Palm cocos040
+    6400070: Palm cocos041
+    6400072: Palm cocos042
+    6400074: Palm cocos043
+    6400076: Palm cocos044
+    6400078: Palm cocos045
+    6400080: Palm cocos046
+    6400082: Palm cocos047
+    6400084: Palm cocos048
+    6400086: Palm cocos049
+    6400088: Palm cocos050
+    6400090: Palm cocos051
+    6400092: Palm cocos052
+    6400094: Palm cocos053
+    6400096: Palm cocos054
+    6400098: Palm cocos055
+    6400100: Palm cocos056
+    6400102: Palm cocos057
+    6400104: Palm cocos058
+    6400106: Palm cocos059
+    6400108: Palm cocos060
+    6400110: Palm cocos061
+    6400112: Palm cocos062
+    6400114: Palm cocos063
+    6400116: Plane029
+    6400118: Plane030
+    6400120: sign
+    6400122: wall_coll
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

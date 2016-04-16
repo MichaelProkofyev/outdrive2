@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 16346a6a58cd5d346bba8df5ead021a6
+timeCreated: 1443154200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Collision
+    100002: concrete_border
+    100004: End
+    100006: land_desert
+    100008: Line016
+    100010: Line017
+    100012: Line019
+    100014: Line020
+    100016: Line021
+    100018: Line025
+    100020: Palm
+    100022: Palm Cocos left400
+    100024: Palm Cocos left400_MeshPart0
+    100026: Palm Cocos left400_MeshPart1
+    100028: Palm Cocos left400_MeshPart2
+    100030: Palm Cocos left400_MeshPart3
+    100032: road
+    100034: //RootNode
+    100036: road_brige tubbe
+    100038: road_grunt
+    100040: Road_spline
+    100042: rock2
+    100044: sign_road
+    100046: Start
+    400000: Collision
+    400002: concrete_border
+    400004: End
+    400006: land_desert
+    400008: Line016
+    400010: Line017
+    400012: Line019
+    400014: Line020
+    400016: Line021
+    400018: Line025
+    400020: Palm
+    400022: Palm Cocos left400
+    400024: Palm Cocos left400_MeshPart0
+    400026: Palm Cocos left400_MeshPart1
+    400028: Palm Cocos left400_MeshPart2
+    400030: Palm Cocos left400_MeshPart3
+    400032: road
+    400034: //RootNode
+    400036: road_brige tubbe
+    400038: road_grunt
+    400040: Road_spline
+    400042: rock2
+    400044: sign_road
+    400046: Start
+    2300000: Collision
+    2300002: concrete_border
+    2300004: land_desert
+    2300006: Palm Cocos left400_MeshPart0
+    2300008: Palm Cocos left400_MeshPart1
+    2300010: Palm Cocos left400_MeshPart2
+    2300012: Palm Cocos left400_MeshPart3
+    2300014: road
+    2300016: road_brige tubbe
+    2300018: road_grunt
+    2300020: rock2
+    2300022: sign_road
+    3300000: Collision
+    3300002: concrete_border
+    3300004: land_desert
+    3300006: Palm Cocos left400_MeshPart0
+    3300008: Palm Cocos left400_MeshPart1
+    3300010: Palm Cocos left400_MeshPart2
+    3300012: Palm Cocos left400_MeshPart3
+    3300014: road
+    3300016: road_brige tubbe
+    3300018: road_grunt
+    3300020: rock2
+    3300022: sign_road
+    4300000: road
+    4300002: sign_road
+    4300004: Collision
+    4300006: concrete_border
+    4300008: road_grunt
+    4300010: land_desert
+    4300012: road_brige tubbe
+    4300014: rock2
+    4300016: Palm Cocos left400_MeshPart0
+    4300018: Palm Cocos left400_MeshPart1
+    4300020: Palm Cocos left400_MeshPart2
+    4300022: Palm Cocos left400_MeshPart3
+    6400000: Collision
+    6400002: concrete_border
+    6400004: land_desert
+    6400006: Palm Cocos left400_MeshPart0
+    6400008: Palm Cocos left400_MeshPart1
+    6400010: Palm Cocos left400_MeshPart2
+    6400012: Palm Cocos left400_MeshPart3
+    6400014: road
+    6400016: road_brige tubbe
+    6400018: road_grunt
+    6400020: rock2
+    6400022: sign_road
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

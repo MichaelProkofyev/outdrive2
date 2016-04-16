@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: bd1706e7f55828545b508e5b69141ab6
+timeCreated: 1438882806
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bilboard_image
+    100002: Box001
+    100004: Box003
+    100006: Colider wall
+    100008: Cylinder002
+    100010: Cylinder003
+    100012: End
+    100014: //RootNode
+    100016: lamp
+    100018: lamp001
+    100020: Line016
+    100022: Line017
+    100024: Line019
+    100026: Loft001
+    100028: Plane024
+    100030: road
+    100032: Start
+    100034: ROADFIXED
+    400000: bilboard_image
+    400002: Box001
+    400004: Box003
+    400006: Colider wall
+    400008: Cylinder002
+    400010: Cylinder003
+    400012: End
+    400014: //RootNode
+    400016: lamp
+    400018: lamp001
+    400020: Line016
+    400022: Line017
+    400024: Line019
+    400026: Loft001
+    400028: Plane024
+    400030: road
+    400032: Start
+    400034: ROADFIXED
+    2300000: bilboard_image
+    2300002: Box001
+    2300004: Box003
+    2300006: Colider wall
+    2300008: Cylinder002
+    2300010: Cylinder003
+    2300012: lamp
+    2300014: lamp001
+    2300016: Loft001
+    2300018: Plane024
+    2300020: road
+    2300022: ROADFIXED
+    3300000: bilboard_image
+    3300002: Box001
+    3300004: Box003
+    3300006: Colider wall
+    3300008: Cylinder002
+    3300010: Cylinder003
+    3300012: lamp
+    3300014: lamp001
+    3300016: Loft001
+    3300018: Plane024
+    3300020: road
+    3300022: ROADFIXED
+    4300000: Plane024
+    4300002: road
+    4300004: Colider wall
+    4300006: Box001
+    4300008: Loft001
+    4300010: Cylinder002
+    4300012: lamp
+    4300014: Cylinder003
+    4300016: lamp001
+    4300018: Box003
+    4300020: bilboard_image
+    4300022: ROADFIXED
+    6400000: bilboard_image
+    6400002: Box001
+    6400004: Box003
+    6400006: Colider wall
+    6400008: Cylinder002
+    6400010: Cylinder003
+    6400012: lamp
+    6400014: lamp001
+    6400016: Loft001
+    6400018: Plane024
+    6400020: road
+    6400022: ROADFIXED
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

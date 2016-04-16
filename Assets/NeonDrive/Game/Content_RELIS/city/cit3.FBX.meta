@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: ed8fa0a1da9e27b438cdfca92e8a3c91
+timeCreated: 1438882824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: building_large009
+    100002: //RootNode
+    100004: Colider wall
+    100006: End
+    100008: Light Pylon
+    100010: Line016
+    100012: Line017
+    100014: Line019
+    100016: Plane024
+    100018: road
+    100020: Start
+    100022: coll wall
+    100024: Line020
+    100026: Line021
+    100028: Loft001
+    100030: Object001
+    400000: building_large009
+    400002: //RootNode
+    400004: Colider wall
+    400006: End
+    400008: Light Pylon
+    400010: Line016
+    400012: Line017
+    400014: Line019
+    400016: Plane024
+    400018: road
+    400020: Start
+    400022: coll wall
+    400024: Line020
+    400026: Line021
+    400028: Loft001
+    400030: Object001
+    2300000: building_large009
+    2300002: Colider wall
+    2300004: Light Pylon
+    2300006: Plane024
+    2300008: road
+    2300010: coll wall
+    2300012: Loft001
+    2300014: Object001
+    3300000: building_large009
+    3300002: Colider wall
+    3300004: Light Pylon
+    3300006: Plane024
+    3300008: road
+    3300010: coll wall
+    3300012: Loft001
+    3300014: Object001
+    4300000: Plane024
+    4300002: road
+    4300004: Light Pylon
+    4300006: Colider wall
+    4300008: building_large009
+    4300010: Object001
+    4300012: Loft001
+    4300014: coll wall
+    6400000: building_large009
+    6400002: Colider wall
+    6400004: Light Pylon
+    6400006: Plane024
+    6400008: road
+    6400010: coll wall
+    6400012: Loft001
+    6400014: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

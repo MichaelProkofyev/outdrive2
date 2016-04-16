@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 772e9fb58970a3d439d547290f5d9a72
+timeCreated: 1438882794
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bilboard_image
+    100002: Box001
+    100004: Box003
+    100006: col wall
+    100008: coll wall
+    100010: Cylinder002
+    100012: Cylinder003
+    100014: End
+    100016: lamp
+    100018: lamp001
+    100020: Line016
+    100022: Line017
+    100024: Line019
+    100026: Line020
+    100028: Loft001
+    100030: Loft002
+    100032: Object001
+    100034: Palm cocos002
+    100036: palm087
+    100038: palm088
+    100040: palm089
+    100042: palm098
+    100044: palm099
+    100046: palm100
+    100048: Plane029
+    100050: //RootNode
+    100052: road_comcr
+    100054: Start
+    400000: bilboard_image
+    400002: Box001
+    400004: Box003
+    400006: col wall
+    400008: coll wall
+    400010: Cylinder002
+    400012: Cylinder003
+    400014: End
+    400016: lamp
+    400018: lamp001
+    400020: Line016
+    400022: Line017
+    400024: Line019
+    400026: Line020
+    400028: Loft001
+    400030: Loft002
+    400032: Object001
+    400034: Palm cocos002
+    400036: palm087
+    400038: palm088
+    400040: palm089
+    400042: palm098
+    400044: palm099
+    400046: palm100
+    400048: Plane029
+    400050: //RootNode
+    400052: road_comcr
+    400054: Start
+    2300000: bilboard_image
+    2300002: Box001
+    2300004: Box003
+    2300006: col wall
+    2300008: coll wall
+    2300010: Cylinder002
+    2300012: Cylinder003
+    2300014: lamp
+    2300016: lamp001
+    2300018: Loft001
+    2300020: Loft002
+    2300022: Object001
+    2300024: Palm cocos002
+    2300026: palm087
+    2300028: palm088
+    2300030: palm089
+    2300032: palm098
+    2300034: palm099
+    2300036: palm100
+    2300038: Plane029
+    2300040: road_comcr
+    3300000: bilboard_image
+    3300002: Box001
+    3300004: Box003
+    3300006: col wall
+    3300008: coll wall
+    3300010: Cylinder002
+    3300012: Cylinder003
+    3300014: lamp
+    3300016: lamp001
+    3300018: Loft001
+    3300020: Loft002
+    3300022: Object001
+    3300024: Palm cocos002
+    3300026: palm087
+    3300028: palm088
+    3300030: palm089
+    3300032: palm098
+    3300034: palm099
+    3300036: palm100
+    3300038: Plane029
+    3300040: road_comcr
+    4300000: Box001
+    4300002: Loft001
+    4300004: Cylinder002
+    4300006: lamp
+    4300008: Cylinder003
+    4300010: lamp001
+    4300012: Box003
+    4300014: bilboard_image
+    4300016: Palm cocos002
+    4300018: Loft002
+    4300020: Object001
+    4300022: Plane029
+    4300024: palm087
+    4300026: palm088
+    4300028: palm089
+    4300030: palm098
+    4300032: palm099
+    4300034: palm100
+    4300036: coll wall
+    4300038: col wall
+    4300040: road_comcr
+    6400000: bilboard_image
+    6400002: Box001
+    6400004: Box003
+    6400006: col wall
+    6400008: coll wall
+    6400010: Cylinder002
+    6400012: Cylinder003
+    6400014: lamp
+    6400016: lamp001
+    6400018: Loft001
+    6400020: Loft002
+    6400022: Object001
+    6400024: Palm cocos002
+    6400026: palm087
+    6400028: palm088
+    6400030: palm089
+    6400032: palm098
+    6400034: palm099
+    6400036: palm100
+    6400038: Plane029
+    6400040: road_comcr
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

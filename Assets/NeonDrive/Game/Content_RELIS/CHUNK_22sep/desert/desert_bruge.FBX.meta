@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 9e1a88cc90b7e2d46b1a66800dd17f01
+timeCreated: 1442866127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box029
+    100002: Collision
+    100004: concrete_border
+    100006: //RootNode
+    100008: land_desert
+    100010: Line020
+    100012: Line021
+    100014: Line022
+    100016: Line025
+    100018: Loft003
+    100020: road
+    100022: Road_brige_pylon001
+    100024: Road_brige_pylon002
+    100026: Road_brige_pylon003
+    100028: Road_brige_pylon004
+    100030: Road_spline
+    100032: sign_road
+    400000: Box029
+    400002: Collision
+    400004: concrete_border
+    400006: //RootNode
+    400008: land_desert
+    400010: Line020
+    400012: Line021
+    400014: Line022
+    400016: Line025
+    400018: Loft003
+    400020: road
+    400022: Road_brige_pylon001
+    400024: Road_brige_pylon002
+    400026: Road_brige_pylon003
+    400028: Road_brige_pylon004
+    400030: Road_spline
+    400032: sign_road
+    2300000: Box029
+    2300002: Collision
+    2300004: concrete_border
+    2300006: land_desert
+    2300008: Loft003
+    2300010: road
+    2300012: Road_brige_pylon001
+    2300014: Road_brige_pylon002
+    2300016: Road_brige_pylon003
+    2300018: Road_brige_pylon004
+    2300020: sign_road
+    3300000: Box029
+    3300002: Collision
+    3300004: concrete_border
+    3300006: land_desert
+    3300008: Loft003
+    3300010: road
+    3300012: Road_brige_pylon001
+    3300014: Road_brige_pylon002
+    3300016: Road_brige_pylon003
+    3300018: Road_brige_pylon004
+    3300020: sign_road
+    4300000: road
+    4300002: sign_road
+    4300004: Collision
+    4300006: concrete_border
+    4300008: land_desert
+    4300010: Box029
+    4300012: Loft003
+    4300014: Road_brige_pylon001
+    4300016: Road_brige_pylon002
+    4300018: Road_brige_pylon003
+    4300020: Road_brige_pylon004
+    6400000: Box029
+    6400002: Collision
+    6400004: concrete_border
+    6400006: land_desert
+    6400008: Loft003
+    6400010: road
+    6400012: Road_brige_pylon001
+    6400014: Road_brige_pylon002
+    6400016: Road_brige_pylon003
+    6400018: Road_brige_pylon004
+    6400020: sign_road
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

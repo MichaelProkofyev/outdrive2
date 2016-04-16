@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 7d6d114186f7aa34f803d1a22634de0a
+timeCreated: 1439726488
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: concr
+    100004: concrete
+    100006: End
+    100008: Line024
+    100010: Line025
+    100012: Loft001
+    100014: Loft002
+    100016: Object004
+    100018: Object004_MeshPart0
+    100020: Object004_MeshPart1
+    100022: Object004_MeshPart2
+    100024: Object007
+    100026: Palm cocos124
+    100028: Palm cocos124_MeshPart0
+    100030: Palm cocos124_MeshPart1
+    100032: Plane029
+    100034: Plane030
+    100036: Start
+    100038: wall coll
+    100040: wall_coll2
+    400000: //RootNode
+    400002: concr
+    400004: concrete
+    400006: End
+    400008: Line024
+    400010: Line025
+    400012: Loft001
+    400014: Loft002
+    400016: Object004
+    400018: Object004_MeshPart0
+    400020: Object004_MeshPart1
+    400022: Object004_MeshPart2
+    400024: Object007
+    400026: Palm cocos124
+    400028: Palm cocos124_MeshPart0
+    400030: Palm cocos124_MeshPart1
+    400032: Plane029
+    400034: Plane030
+    400036: Start
+    400038: wall coll
+    400040: wall_coll2
+    2300000: concr
+    2300002: concrete
+    2300004: Loft001
+    2300006: Loft002
+    2300008: Object004_MeshPart0
+    2300010: Object004_MeshPart1
+    2300012: Object004_MeshPart2
+    2300014: Object007
+    2300016: Palm cocos124_MeshPart0
+    2300018: Palm cocos124_MeshPart1
+    2300020: Plane029
+    2300022: Plane030
+    2300024: wall coll
+    2300026: wall_coll2
+    3300000: concr
+    3300002: concrete
+    3300004: Loft001
+    3300006: Loft002
+    3300008: Object004_MeshPart0
+    3300010: Object004_MeshPart1
+    3300012: Object004_MeshPart2
+    3300014: Object007
+    3300016: Palm cocos124_MeshPart0
+    3300018: Palm cocos124_MeshPart1
+    3300020: Plane029
+    3300022: Plane030
+    3300024: wall coll
+    3300026: wall_coll2
+    4300000: Plane029
+    4300002: Object004_MeshPart0
+    4300004: Object004_MeshPart1
+    4300006: Object004_MeshPart2
+    4300008: Object007
+    4300010: Plane030
+    4300012: Loft001
+    4300014: Loft002
+    4300016: wall coll
+    4300018: wall_coll2
+    4300020: concrete
+    4300022: concr
+    4300024: Palm cocos124_MeshPart0
+    4300026: Palm cocos124_MeshPart1
+    6400000: concr
+    6400002: concrete
+    6400004: Loft001
+    6400006: Loft002
+    6400008: Object004_MeshPart0
+    6400010: Object004_MeshPart1
+    6400012: Object004_MeshPart2
+    6400014: Object007
+    6400016: Palm cocos124_MeshPart0
+    6400018: Palm cocos124_MeshPart1
+    6400020: Plane029
+    6400022: Plane030
+    6400024: wall coll
+    6400026: wall_coll2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

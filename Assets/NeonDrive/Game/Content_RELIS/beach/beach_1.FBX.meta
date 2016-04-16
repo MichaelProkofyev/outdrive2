@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 0bfe0e6fc448c5d48b4b3cd55fa1097e
+timeCreated: 1438882755
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: coll wall
+    100004: collwall
+    100006: concr
+    100008: End
+    100010: Line024
+    100012: Loft001
+    100014: Object001
+    100016: Object001_MeshPart0
+    100018: Object001_MeshPart1
+    100020: Palm cocos050
+    100022: Palm cocos050_MeshPart0
+    100024: Palm cocos050_MeshPart1
+    100026: Plane029
+    100028: sign
+    100030: Start
+    100032: Water
+    100034: land
+    400000: //RootNode
+    400002: coll wall
+    400004: collwall
+    400006: concr
+    400008: End
+    400010: Line024
+    400012: Loft001
+    400014: Object001
+    400016: Object001_MeshPart0
+    400018: Object001_MeshPart1
+    400020: Palm cocos050
+    400022: Palm cocos050_MeshPart0
+    400024: Palm cocos050_MeshPart1
+    400026: Plane029
+    400028: sign
+    400030: Start
+    400032: Water
+    400034: land
+    2300000: coll wall
+    2300002: collwall
+    2300004: concr
+    2300006: Loft001
+    2300008: Object001_MeshPart0
+    2300010: Object001_MeshPart1
+    2300012: Palm cocos050_MeshPart0
+    2300014: Palm cocos050_MeshPart1
+    2300016: Plane029
+    2300018: sign
+    2300020: Water
+    2300022: Object001
+    2300024: land
+    2300026: //RootNode
+    3300000: coll wall
+    3300002: collwall
+    3300004: concr
+    3300006: Loft001
+    3300008: Object001_MeshPart0
+    3300010: Object001_MeshPart1
+    3300012: Palm cocos050_MeshPart0
+    3300014: Palm cocos050_MeshPart1
+    3300016: Plane029
+    3300018: sign
+    3300020: Water
+    3300022: Object001
+    3300024: land
+    3300026: //RootNode
+    4300000: Plane029
+    4300002: Water
+    4300004: Object001_MeshPart0
+    4300006: Object001_MeshPart1
+    4300008: Loft001
+    4300010: coll wall
+    4300012: sign
+    4300014: collwall
+    4300016: concr
+    4300018: Palm cocos050_MeshPart0
+    4300020: Palm cocos050_MeshPart1
+    4300022: Object001
+    4300024: land
+    6400000: coll wall
+    6400002: collwall
+    6400004: concr
+    6400006: Loft001
+    6400008: Object001_MeshPart0
+    6400010: Object001_MeshPart1
+    6400012: Palm cocos050_MeshPart0
+    6400014: Palm cocos050_MeshPart1
+    6400016: Plane029
+    6400018: sign
+    6400020: Water
+    6400022: Object001
+    6400024: land
+    6400026: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

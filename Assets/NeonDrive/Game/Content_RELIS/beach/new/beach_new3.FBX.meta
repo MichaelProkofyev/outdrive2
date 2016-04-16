@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 017cc0047b08bd5459db07e691232a7e
+timeCreated: 1439726478
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera001.Target
+    100004: coll_wall
+    100006: concr
+    100008: Cylinder001
+    100010: Cylinder002
+    100012: Cylinder003
+    100014: Cylinder004
+    100016: Cylinder005
+    100018: Cylinder006
+    100020: Cylinder007
+    100022: Cylinder008
+    100024: Cylinder009
+    100026: End
+    100028: Line024
+    100030: Loft001
+    100032: Loft002
+    100034: Object004
+    100036: Object004_MeshPart0
+    100038: Object004_MeshPart1
+    100040: Object006
+    100042: Palm cocos002
+    100044: Palm cocos003
+    100046: Palm cocos004
+    100048: Palm cocos005
+    100050: Palm cocos006
+    100052: Palm cocos007
+    100054: Palm cocos008
+    100056: Palm cocos009
+    100058: Palm cocos010
+    100060: Palm cocos011
+    100062: Palm cocos012
+    100064: Plane029
+    100066: Plane030
+    100068: sign
+    100070: Start
+    400000: //RootNode
+    400002: Camera001.Target
+    400004: coll_wall
+    400006: concr
+    400008: Cylinder001
+    400010: Cylinder002
+    400012: Cylinder003
+    400014: Cylinder004
+    400016: Cylinder005
+    400018: Cylinder006
+    400020: Cylinder007
+    400022: Cylinder008
+    400024: Cylinder009
+    400026: End
+    400028: Line024
+    400030: Loft001
+    400032: Loft002
+    400034: Object004
+    400036: Object004_MeshPart0
+    400038: Object004_MeshPart1
+    400040: Object006
+    400042: Palm cocos002
+    400044: Palm cocos003
+    400046: Palm cocos004
+    400048: Palm cocos005
+    400050: Palm cocos006
+    400052: Palm cocos007
+    400054: Palm cocos008
+    400056: Palm cocos009
+    400058: Palm cocos010
+    400060: Palm cocos011
+    400062: Palm cocos012
+    400064: Plane029
+    400066: Plane030
+    400068: sign
+    400070: Start
+    2300000: coll_wall
+    2300002: concr
+    2300004: Cylinder001
+    2300006: Cylinder002
+    2300008: Cylinder003
+    2300010: Cylinder004
+    2300012: Cylinder005
+    2300014: Cylinder006
+    2300016: Cylinder007
+    2300018: Cylinder008
+    2300020: Cylinder009
+    2300022: Loft001
+    2300024: Loft002
+    2300026: Object004_MeshPart0
+    2300028: Object004_MeshPart1
+    2300030: Object006
+    2300032: Palm cocos002
+    2300034: Palm cocos003
+    2300036: Palm cocos004
+    2300038: Palm cocos005
+    2300040: Palm cocos006
+    2300042: Palm cocos007
+    2300044: Palm cocos008
+    2300046: Palm cocos009
+    2300048: Palm cocos010
+    2300050: Palm cocos011
+    2300052: Palm cocos012
+    2300054: Plane029
+    2300056: Plane030
+    2300058: sign
+    3300000: coll_wall
+    3300002: concr
+    3300004: Cylinder001
+    3300006: Cylinder002
+    3300008: Cylinder003
+    3300010: Cylinder004
+    3300012: Cylinder005
+    3300014: Cylinder006
+    3300016: Cylinder007
+    3300018: Cylinder008
+    3300020: Cylinder009
+    3300022: Loft001
+    3300024: Loft002
+    3300026: Object004_MeshPart0
+    3300028: Object004_MeshPart1
+    3300030: Object006
+    3300032: Palm cocos002
+    3300034: Palm cocos003
+    3300036: Palm cocos004
+    3300038: Palm cocos005
+    3300040: Palm cocos006
+    3300042: Palm cocos007
+    3300044: Palm cocos008
+    3300046: Palm cocos009
+    3300048: Palm cocos010
+    3300050: Palm cocos011
+    3300052: Palm cocos012
+    3300054: Plane029
+    3300056: Plane030
+    3300058: sign
+    4300000: Palm cocos002
+    4300002: Plane029
+    4300004: Object004_MeshPart0
+    4300006: Object004_MeshPart1
+    4300008: Plane030
+    4300010: Object006
+    4300012: Loft001
+    4300014: coll_wall
+    4300016: sign
+    4300018: concr
+    4300020: Cylinder001
+    4300022: Cylinder002
+    4300024: Cylinder003
+    4300026: Loft002
+    4300028: Cylinder004
+    4300030: Cylinder005
+    4300032: Cylinder006
+    4300034: Cylinder007
+    4300036: Cylinder008
+    4300038: Cylinder009
+    4300040: Palm cocos003
+    4300042: Palm cocos004
+    4300044: Palm cocos005
+    4300046: Palm cocos006
+    4300048: Palm cocos007
+    4300050: Palm cocos008
+    4300052: Palm cocos009
+    4300054: Palm cocos010
+    4300056: Palm cocos011
+    4300058: Palm cocos012
+    6400000: coll_wall
+    6400002: concr
+    6400004: Cylinder001
+    6400006: Cylinder002
+    6400008: Cylinder003
+    6400010: Cylinder004
+    6400012: Cylinder005
+    6400014: Cylinder006
+    6400016: Cylinder007
+    6400018: Cylinder008
+    6400020: Cylinder009
+    6400022: Loft001
+    6400024: Loft002
+    6400026: Object004_MeshPart0
+    6400028: Object004_MeshPart1
+    6400030: Object006
+    6400032: Palm cocos002
+    6400034: Palm cocos003
+    6400036: Palm cocos004
+    6400038: Palm cocos005
+    6400040: Palm cocos006
+    6400042: Palm cocos007
+    6400044: Palm cocos008
+    6400046: Palm cocos009
+    6400048: Palm cocos010
+    6400050: Palm cocos011
+    6400052: Palm cocos012
+    6400054: Plane029
+    6400056: Plane030
+    6400058: sign
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

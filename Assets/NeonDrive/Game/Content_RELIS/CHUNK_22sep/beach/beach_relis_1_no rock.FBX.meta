@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 741ab341af7814f44b8676aa5f86a02d
+timeCreated: 1442999779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Collision
+    100004: concrete_border
+    100006: land
+    100008: Line020
+    100010: Line021
+    100012: Line022
+    100014: Line024
+    100016: Line025
+    100018: Loft002
+    100020: Palm
+    100022: Palm Cocos left224
+    100024: Palm Cocos left224_MeshPart0
+    100026: Palm Cocos left224_MeshPart1
+    100028: Palm Cocos left224_MeshPart2
+    100030: road
+    100032: Road_spline
+    100034: sign_road
+    100036: Water
+    400000: //RootNode
+    400002: Collision
+    400004: concrete_border
+    400006: land
+    400008: Line020
+    400010: Line021
+    400012: Line022
+    400014: Line024
+    400016: Line025
+    400018: Loft002
+    400020: Palm
+    400022: Palm Cocos left224
+    400024: Palm Cocos left224_MeshPart0
+    400026: Palm Cocos left224_MeshPart1
+    400028: Palm Cocos left224_MeshPart2
+    400030: road
+    400032: Road_spline
+    400034: sign_road
+    400036: Water
+    2300000: Collision
+    2300002: concrete_border
+    2300004: land
+    2300006: Loft002
+    2300008: Palm Cocos left224_MeshPart0
+    2300010: Palm Cocos left224_MeshPart1
+    2300012: Palm Cocos left224_MeshPart2
+    2300014: road
+    2300016: sign_road
+    2300018: Water
+    3300000: Collision
+    3300002: concrete_border
+    3300004: land
+    3300006: Loft002
+    3300008: Palm Cocos left224_MeshPart0
+    3300010: Palm Cocos left224_MeshPart1
+    3300012: Palm Cocos left224_MeshPart2
+    3300014: road
+    3300016: sign_road
+    3300018: Water
+    4300000: road
+    4300002: sign_road
+    4300004: Collision
+    4300006: concrete_border
+    4300008: land
+    4300010: Water
+    4300012: Loft002
+    4300014: Palm Cocos left224_MeshPart0
+    4300016: Palm Cocos left224_MeshPart1
+    4300018: Palm Cocos left224_MeshPart2
+    6400000: Collision
+    6400002: concrete_border
+    6400004: land
+    6400006: Loft002
+    6400008: Palm Cocos left224_MeshPart0
+    6400010: Palm Cocos left224_MeshPart1
+    6400012: Palm Cocos left224_MeshPart2
+    6400014: road
+    6400016: sign_road
+    6400018: Water
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

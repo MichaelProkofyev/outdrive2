@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: c2e6e6ab68ed81f4d8e9e50b587ef824
+timeCreated: 1438691989
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: End
+    100004: grunt
+    100006: Line001
+    100008: Line002
+    100010: Line016
+    100012: Line017
+    100014: Line018
+    100016: Line019
+    100018: Loft002
+    100020: Object093
+    100022: Object094
+    100024: palm083
+    100026: palm083_MeshPart0
+    100028: palm083_MeshPart1
+    100030: palm083_MeshPart2
+    100032: Plane023
+    100034: sign_r
+    100036: Start
+    100038: palm047
+    100040: palm047_MeshPart0
+    100042: palm047_MeshPart1
+    100044: palm047_MeshPart2
+    400000: //RootNode
+    400002: End
+    400004: grunt
+    400006: Line001
+    400008: Line002
+    400010: Line016
+    400012: Line017
+    400014: Line018
+    400016: Line019
+    400018: Loft002
+    400020: Object093
+    400022: Object094
+    400024: palm083
+    400026: palm083_MeshPart0
+    400028: palm083_MeshPart1
+    400030: palm083_MeshPart2
+    400032: Plane023
+    400034: sign_r
+    400036: Start
+    400038: palm047
+    400040: palm047_MeshPart0
+    400042: palm047_MeshPart1
+    400044: palm047_MeshPart2
+    2300000: grunt
+    2300002: Loft002
+    2300004: Object093
+    2300006: Object094
+    2300008: palm083_MeshPart0
+    2300010: palm083_MeshPart1
+    2300012: palm083_MeshPart2
+    2300014: Plane023
+    2300016: sign_r
+    2300018: palm047_MeshPart0
+    2300020: palm047_MeshPart1
+    2300022: palm047_MeshPart2
+    3300000: grunt
+    3300002: Loft002
+    3300004: Object093
+    3300006: Object094
+    3300008: palm083_MeshPart0
+    3300010: palm083_MeshPart1
+    3300012: palm083_MeshPart2
+    3300014: Plane023
+    3300016: sign_r
+    3300018: palm047_MeshPart0
+    3300020: palm047_MeshPart1
+    3300022: palm047_MeshPart2
+    4300000: grunt
+    4300002: Plane023
+    4300004: Loft002
+    4300006: Object093
+    4300008: Object094
+    4300010: sign_r
+    4300012: palm083_MeshPart0
+    4300014: palm083_MeshPart1
+    4300016: palm083_MeshPart2
+    4300018: palm047_MeshPart0
+    4300020: palm047_MeshPart1
+    4300022: palm047_MeshPart2
+    6400000: grunt
+    6400002: Loft002
+    6400004: Object093
+    6400006: Object094
+    6400008: palm083_MeshPart0
+    6400010: palm083_MeshPart1
+    6400012: palm083_MeshPart2
+    6400014: Plane023
+    6400016: sign_r
+    6400018: palm047_MeshPart0
+    6400020: palm047_MeshPart1
+    6400022: palm047_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

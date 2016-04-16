@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 06b98eccdd8047b4f9434b82fd66fdd7
+timeCreated: 1443033191
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Collision
+    100002: concrete_border
+    100004: land_desert
+    100006: Line020
+    100008: Line021
+    100010: Line022
+    100012: Line024
+    100014: Line025
+    100016: Line026
+    100018: Line027
+    100020: Palm
+    100022: Palm Cocos left183
+    100024: Palm Cocos left183_MeshPart0
+    100026: Palm Cocos left183_MeshPart1
+    100028: Palm Cocos left183_MeshPart2
+    100030: Palm Cocos left183_MeshPart3
+    100032: Palm Cocos left183_MeshPart4
+    100034: Palm Cocos left183_MeshPart5
+    100036: Palm Cocos left183_MeshPart6
+    100038: road
+    100040: road_grunt
+    100042: Road_spline
+    100044: rock2
+    100046: //RootNode
+    100048: sign_road
+    400000: Collision
+    400002: concrete_border
+    400004: land_desert
+    400006: Line020
+    400008: Line021
+    400010: Line022
+    400012: Line024
+    400014: Line025
+    400016: Line026
+    400018: Line027
+    400020: Palm
+    400022: Palm Cocos left183
+    400024: Palm Cocos left183_MeshPart0
+    400026: Palm Cocos left183_MeshPart1
+    400028: Palm Cocos left183_MeshPart2
+    400030: Palm Cocos left183_MeshPart3
+    400032: Palm Cocos left183_MeshPart4
+    400034: Palm Cocos left183_MeshPart5
+    400036: Palm Cocos left183_MeshPart6
+    400038: road
+    400040: road_grunt
+    400042: Road_spline
+    400044: rock2
+    400046: //RootNode
+    400048: sign_road
+    2300000: Collision
+    2300002: concrete_border
+    2300004: land_desert
+    2300006: Palm Cocos left183_MeshPart0
+    2300008: Palm Cocos left183_MeshPart1
+    2300010: Palm Cocos left183_MeshPart2
+    2300012: Palm Cocos left183_MeshPart3
+    2300014: Palm Cocos left183_MeshPart4
+    2300016: Palm Cocos left183_MeshPart5
+    2300018: Palm Cocos left183_MeshPart6
+    2300020: road
+    2300022: road_grunt
+    2300024: rock2
+    2300026: sign_road
+    3300000: Collision
+    3300002: concrete_border
+    3300004: land_desert
+    3300006: Palm Cocos left183_MeshPart0
+    3300008: Palm Cocos left183_MeshPart1
+    3300010: Palm Cocos left183_MeshPart2
+    3300012: Palm Cocos left183_MeshPart3
+    3300014: Palm Cocos left183_MeshPart4
+    3300016: Palm Cocos left183_MeshPart5
+    3300018: Palm Cocos left183_MeshPart6
+    3300020: road
+    3300022: road_grunt
+    3300024: rock2
+    3300026: sign_road
+    4300000: road
+    4300002: sign_road
+    4300004: Collision
+    4300006: concrete_border
+    4300008: road_grunt
+    4300010: land_desert
+    4300012: rock2
+    4300014: Palm Cocos left183_MeshPart0
+    4300016: Palm Cocos left183_MeshPart1
+    4300018: Palm Cocos left183_MeshPart2
+    4300020: Palm Cocos left183_MeshPart3
+    4300022: Palm Cocos left183_MeshPart4
+    4300024: Palm Cocos left183_MeshPart5
+    4300026: Palm Cocos left183_MeshPart6
+    6400000: Collision
+    6400002: concrete_border
+    6400004: land_desert
+    6400006: Palm Cocos left183_MeshPart0
+    6400008: Palm Cocos left183_MeshPart1
+    6400010: Palm Cocos left183_MeshPart2
+    6400012: Palm Cocos left183_MeshPart3
+    6400014: Palm Cocos left183_MeshPart4
+    6400016: Palm Cocos left183_MeshPart5
+    6400018: Palm Cocos left183_MeshPart6
+    6400020: road
+    6400022: road_grunt
+    6400024: rock2
+    6400026: sign_road
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

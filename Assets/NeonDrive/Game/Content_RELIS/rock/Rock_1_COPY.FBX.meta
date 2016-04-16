@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 87da4b2f8f5a42442a2a3f9075ddc795
+timeCreated: 1443987226
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: col wall
+    100002: End
+    100004: lamp
+    100006: Line016
+    100008: Line017
+    100010: Line021
+    100012: Loft001
+    100014: Loft002
+    100016: Loft020
+    100018: Loft021
+    100020: Loft022
+    100022: Loft023
+    100024: Loft024
+    100026: Loft025
+    100028: Loft026
+    100030: Loft027
+    100032: Loft028
+    100034: Loft029
+    100036: Loft044
+    100038: Loft045
+    100040: Loft046
+    100042: Loft047
+    100044: Loft049
+    100046: Loft050
+    100048: Loft051
+    100050: Loft056
+    100052: Loft057
+    100054: Loft058
+    100056: Loft059
+    100058: Loft060
+    100060: Loft061
+    100062: Loft062
+    100064: Loft063
+    100066: Loft064
+    100068: Loft065
+    100070: Object001
+    100072: Object002
+    100074: Palm cocos026
+    100076: Palm cocos026_MeshPart0
+    100078: Palm cocos026_MeshPart1
+    100080: Plane029
+    100082: //RootNode
+    100084: sign
+    100086: Start
+    400000: col wall
+    400002: End
+    400004: lamp
+    400006: Line016
+    400008: Line017
+    400010: Line021
+    400012: Loft001
+    400014: Loft002
+    400016: Loft020
+    400018: Loft021
+    400020: Loft022
+    400022: Loft023
+    400024: Loft024
+    400026: Loft025
+    400028: Loft026
+    400030: Loft027
+    400032: Loft028
+    400034: Loft029
+    400036: Loft044
+    400038: Loft045
+    400040: Loft046
+    400042: Loft047
+    400044: Loft049
+    400046: Loft050
+    400048: Loft051
+    400050: Loft056
+    400052: Loft057
+    400054: Loft058
+    400056: Loft059
+    400058: Loft060
+    400060: Loft061
+    400062: Loft062
+    400064: Loft063
+    400066: Loft064
+    400068: Loft065
+    400070: Object001
+    400072: Object002
+    400074: Palm cocos026
+    400076: Palm cocos026_MeshPart0
+    400078: Palm cocos026_MeshPart1
+    400080: Plane029
+    400082: //RootNode
+    400084: sign
+    400086: Start
+    2300000: col wall
+    2300002: lamp
+    2300004: Loft001
+    2300006: Loft002
+    2300008: Loft020
+    2300010: Loft021
+    2300012: Loft022
+    2300014: Loft023
+    2300016: Loft024
+    2300018: Loft025
+    2300020: Loft026
+    2300022: Loft027
+    2300024: Loft028
+    2300026: Loft029
+    2300028: Loft044
+    2300030: Loft045
+    2300032: Loft046
+    2300034: Loft047
+    2300036: Loft049
+    2300038: Loft050
+    2300040: Loft051
+    2300042: Loft056
+    2300044: Loft057
+    2300046: Loft058
+    2300048: Loft059
+    2300050: Loft060
+    2300052: Loft061
+    2300054: Loft062
+    2300056: Loft063
+    2300058: Loft064
+    2300060: Loft065
+    2300062: Object001
+    2300064: Object002
+    2300066: Palm cocos026_MeshPart0
+    2300068: Palm cocos026_MeshPart1
+    2300070: Plane029
+    2300072: sign
+    3300000: col wall
+    3300002: lamp
+    3300004: Loft001
+    3300006: Loft002
+    3300008: Loft020
+    3300010: Loft021
+    3300012: Loft022
+    3300014: Loft023
+    3300016: Loft024
+    3300018: Loft025
+    3300020: Loft026
+    3300022: Loft027
+    3300024: Loft028
+    3300026: Loft029
+    3300028: Loft044
+    3300030: Loft045
+    3300032: Loft046
+    3300034: Loft047
+    3300036: Loft049
+    3300038: Loft050
+    3300040: Loft051
+    3300042: Loft056
+    3300044: Loft057
+    3300046: Loft058
+    3300048: Loft059
+    3300050: Loft060
+    3300052: Loft061
+    3300054: Loft062
+    3300056: Loft063
+    3300058: Loft064
+    3300060: Loft065
+    3300062: Object001
+    3300064: Object002
+    3300066: Palm cocos026_MeshPart0
+    3300068: Palm cocos026_MeshPart1
+    3300070: Plane029
+    3300072: sign
+    4300000: lamp
+    4300002: Plane029
+    4300004: Loft001
+    4300006: Loft002
+    4300008: Loft020
+    4300010: Loft021
+    4300012: Loft022
+    4300014: Loft023
+    4300016: Loft024
+    4300018: Loft025
+    4300020: Loft026
+    4300022: Loft027
+    4300024: Loft028
+    4300026: Loft029
+    4300028: Loft044
+    4300030: Loft045
+    4300032: Loft046
+    4300034: Loft047
+    4300036: Loft049
+    4300038: Loft050
+    4300040: Loft051
+    4300042: Loft056
+    4300044: Loft057
+    4300046: Loft058
+    4300048: Loft059
+    4300050: Loft060
+    4300052: Loft061
+    4300054: Loft062
+    4300056: Loft063
+    4300058: Loft064
+    4300060: Loft065
+    4300062: col wall
+    4300064: sign
+    4300066: Object001
+    4300068: Palm cocos026_MeshPart0
+    4300070: Palm cocos026_MeshPart1
+    4300072: Object002
+    6400000: col wall
+    6400002: lamp
+    6400004: Loft001
+    6400006: Loft002
+    6400008: Loft020
+    6400010: Loft021
+    6400012: Loft022
+    6400014: Loft023
+    6400016: Loft024
+    6400018: Loft025
+    6400020: Loft026
+    6400022: Loft027
+    6400024: Loft028
+    6400026: Loft029
+    6400028: Loft044
+    6400030: Loft045
+    6400032: Loft046
+    6400034: Loft047
+    6400036: Loft049
+    6400038: Loft050
+    6400040: Loft051
+    6400042: Loft056
+    6400044: Loft057
+    6400046: Loft058
+    6400048: Loft059
+    6400050: Loft060
+    6400052: Loft061
+    6400054: Loft062
+    6400056: Loft063
+    6400058: Loft064
+    6400060: Loft065
+    6400062: Object001
+    6400064: Object002
+    6400066: Palm cocos026_MeshPart0
+    6400068: Palm cocos026_MeshPart1
+    6400070: Plane029
+    6400072: sign
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
