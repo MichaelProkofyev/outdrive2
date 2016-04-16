@@ -46,7 +46,6 @@ public class BasicInput : MonoBehaviour
 
 	void FixedUpdate()
 	{
-		//return;
 		//Get constant inputs
 		if (!string.IsNullOrEmpty(accelAxis))
 		{

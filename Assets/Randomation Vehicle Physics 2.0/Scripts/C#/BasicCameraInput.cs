@@ -17,11 +17,10 @@ public class BasicCameraInput : MonoBehaviour
 	void FixedUpdate()
 	{
 		//Debug.Log (Input.GetAxis (xInputAxis));
-
 		//Set camera rotation input if the input axes are valid
 		if (cam && !string.IsNullOrEmpty(xInputAxis) && !string.IsNullOrEmpty(yInputAxis))
 		{
-			cam.SetInput(Input.GetAxis(xInputAxis), Input.GetAxis(yInputAxis));
+			cam.SetInput(Input.GetAxis(xInputAxis), 0);
 		}
 	}
 }
