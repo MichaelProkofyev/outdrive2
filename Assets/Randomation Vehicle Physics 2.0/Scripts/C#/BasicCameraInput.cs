@@ -5,8 +5,8 @@ using System.Collections;
 public class BasicCameraInput : MonoBehaviour
 {
 	CameraControl cam;
-	public string xInputAxis;
-	public string yInputAxis;
+	public string xInputAxis; //Camera X
+	public string yInputAxis; // Camera Y
 
 	void Start()
 	{
@@ -16,6 +16,8 @@ public class BasicCameraInput : MonoBehaviour
 
 	void FixedUpdate()
 	{
+		//Debug.Log (Input.GetAxis (xInputAxis));
+
 		//Set camera rotation input if the input axes are valid
 		if (cam && !string.IsNullOrEmpty(xInputAxis) && !string.IsNullOrEmpty(yInputAxis))
 		{
