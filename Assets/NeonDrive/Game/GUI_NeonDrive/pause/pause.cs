@@ -70,28 +70,30 @@ public class pause : MonoBehaviour {
 			
 		}
 
-		if (Input.GetButtonDown ("Submit")) {
-			selectedButton.onClick.Invoke();
-		}
-
-
-
-		if( Input.GetAxisRaw("Vertical") != 0)
-		{
-			if(m_isAxisInUse == false)
-			{
-				float v = Input.GetAxisRaw("Vertical");
-				if (0 < v) {
-					returnButton.Select();
-				}else if (v < 0){
-					mainMenuButton.Select();
-				}
-				m_isAxisInUse = true;
+		if (yesPause) {
+			if (Input.GetButtonDown ("Submit")) {
+				selectedButton.onClick.Invoke();
 			}
-		}else if( Input.GetAxisRaw("Vertical") == 0)
-		{
-			m_isAxisInUse = false;
-		}  
+			
+			
+			
+			if( Input.GetAxisRaw("Vertical") != 0)
+			{
+				if(m_isAxisInUse == false)
+				{
+					float v = Input.GetAxisRaw("Vertical");
+					if (0 < v) {
+						returnButton.Select();
+					}else if (v < 0){
+						mainMenuButton.Select();
+					}
+					m_isAxisInUse = true;
+				}
+			}else if( Input.GetAxisRaw("Vertical") == 0)
+			{
+				m_isAxisInUse = false;
+			}  
+		}
 
 
 
