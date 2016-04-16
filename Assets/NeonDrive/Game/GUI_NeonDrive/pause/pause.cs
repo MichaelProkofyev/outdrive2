@@ -12,6 +12,7 @@ public class pause : MonoBehaviour {
 	public Button returnButton, mainMenuButton;
 	public bool  yesPause;
 	private bool m_isAxisInUse = false;
+	private Button selectedButton = null;
 
 
 	public void Pause(){
@@ -48,7 +49,6 @@ public class pause : MonoBehaviour {
 		Cursor.visible = false;
 		returnButton = canvasPause.transform.FindChild ("return").GetComponent<Button>();
 		mainMenuButton = canvasPause.transform.FindChild ("mainmenu").GetComponent<Button>();
-		//Input.GetJoystickNames()
 	}
 
 	void Update()
@@ -59,12 +59,19 @@ public class pause : MonoBehaviour {
 			canvasPause.SetActive(yesPause);
 			Cursor.visible = yesPause;
 			Time.timeScale = yesPause ? 0 : 1;
+
+			if (yesPause) {
+				bool gamepadFound = Input.GetJoystickNames ().Length > 0;
+				if (gamepadFound) {
+					returnButton.Select();
+					selectedButton = returnButton;
+				}
+			}
 			
 		}
 
 		if (Input.GetButtonDown ("Submit")) {
-			//if(mainMenuButton.spriteState == SpriteState.)
-			EventSystem.current.currentSelectedGameObject.gameObject.GetComponent<Button>().onClick.Invoke();
+			selectedButton.onClick.Invoke();
 		}
 
 
@@ -74,7 +81,6 @@ public class pause : MonoBehaviour {
 			if(m_isAxisInUse == false)
 			{
 				float v = Input.GetAxisRaw("Vertical");
-				Debug.Log (v);
 				if (0 < v) {
 					returnButton.Select();
 				}else if (v < 0){
