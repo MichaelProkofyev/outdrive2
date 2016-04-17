@@ -28,7 +28,7 @@ public class MAIN : MonoBehaviour {
 		if (Input.GetButtonDown ("Submit")) {
 			//if(mainMenuButton.spriteState == SpriteState.)
 			selectedButton.onClick.Invoke();
-		}else if (Input.GetKeyDown(KeyCode.JoystickButton9)){
+		}else if (Input.GetKeyDown(KeyCode.JoystickButton7)){
 			startGame();
 		}
 		

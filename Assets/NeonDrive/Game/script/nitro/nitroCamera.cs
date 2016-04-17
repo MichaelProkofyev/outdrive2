@@ -3,6 +3,10 @@ using System.Collections;
 using UnityEngine.Serialization;
 using System.Collections.Generic;
 
+
+using System;
+
+
 namespace UnityStandardAssets.ImageEffects
 {
 
@@ -179,6 +183,14 @@ public class nitroCamera : MonoBehaviour{
 	void Update(){
 
 
+
+			
+
+//				foreach(KeyCode kcode in Enum.GetValues(typeof(KeyCode)))
+//				{
+//					if (Input.GetKeyDown(kcode))
+//						Debug.Log("KeyCode down: " + kcode);
+//				}
 
 
 
