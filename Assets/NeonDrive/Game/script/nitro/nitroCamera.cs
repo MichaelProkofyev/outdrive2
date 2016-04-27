@@ -129,14 +129,11 @@ public class nitroCamera : MonoBehaviour{
 
 
 
-
-
-
-
-        if (Input.GetButton("Boost") && nM.boost > 0.05 && motor.fuel > 0)
+			//Debug.Log (Input.GetAxis ("Boost"));
+			if ((Input.GetButton("Boost") || Input.GetAxis("Boost") == 1f) && nM.boost > 0.05 && motor.fuel > 0)
         {
 
-										
+//				Debug.Log ("BOOSTING");
 																			
 				               		     carPlayer.AddForce(carPlayer.transform.forward * turboPower);
 				               		     carPlayer.AddForce (carPlayer.transform.up*(-1.0f*turboPowerDown));
@@ -249,7 +246,7 @@ public class nitroCamera : MonoBehaviour{
 
 
 
-        if (Input.GetButton("Boost") && nM.boost > 0.05 && nCounter.speed > 8 && motor.fuel > 0)
+			if ((Input.GetButton("Boost") || Input.GetAxis("Boost") == 1f) && nM.boost > 0.05 && nCounter.speed > 8 && motor.fuel > 0)
 		{
 
 

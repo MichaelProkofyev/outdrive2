@@ -121,7 +121,7 @@ public class HELI_GUN : MonoBehaviour {
 
 
 
-		if (Input.GetButton("Boost")) {
+		if (Input.GetButton("Boost") || Input.GetAxis("Boost") == 1f) {
 			finaltargetTransform = backTar;
 		}
 		else
